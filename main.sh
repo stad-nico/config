@@ -8,7 +8,6 @@ SCRIPTS=(
   "install-oh-my-zsh.sh"
   "install-rust.sh"
   "zellij-setup.sh"
-  "setup-ssh.sh"
 )
 
 TOTAL_STEPS=${#SCRIPTS[@]}
