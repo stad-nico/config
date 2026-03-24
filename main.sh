@@ -3,11 +3,11 @@
 source ./variables.sh
 
 SCRIPTS=(
-#  "install-packages.sh"
-#  "git-config.sh"
-#  "install-oh-my-zsh.sh"
-#  "install-rust.sh"
-#  "setup-ssh.sh"
+  "install-packages.sh"
+  "git-config.sh"
+  "install-oh-my-zsh.sh"
+  "install-rust.sh"
+  "setup-ssh.sh"
 )
 
 TOTAL_STEPS=${#SCRIPTS[@]}
