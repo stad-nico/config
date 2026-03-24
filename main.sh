@@ -7,6 +7,7 @@ SCRIPTS=(
   "git-config.sh"
   "install-oh-my-zsh.sh"
   "install-rust.sh"
+  "zellij-setup.sh"
   "setup-ssh.sh"
 )
 
